@@ -7,7 +7,8 @@ A helper file to identify fields in the Medicare Cost Reports
 In Python, it can be loaded using the Pandas or Dask library:
 
 ```
-dfFIELDS = df.read_csv('https://raw.githubusercontent.com/ohana-project/HCRISFields/master/fields.csv', dtype='str')
+dfFIELDS = df.read_csv('https://raw.githubusercontent.com/ohana-project/HCRISFields/master/fields.csv', \
+dtype='str')
 ```
 
 In R, it can be loaded using the RCurl library:

@@ -1,4 +1,4 @@
-# HCRISFields
+# HCRIS Field Metadata
 
 A helper file to identify fields in the Medicare Cost Reports
 
